@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebApplication1/obj/Debug/net8.0/staticwebassets.build.json
+/WebApplication1/obj/Debug/net8.0/WebAppli.7D14BD69.Up2Date
+/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.BuildWithSkipAnalyzers
+/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.FileListAbsolute.txt
+/WebApplication1/obj/Debug/net8.0/WebApplication1.dll
+/WebApplication1/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
+/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/WebApplication1/obj/Debug/net8.0/WebApplication1.pdb
+/WebApplication1/obj/Debug/net8.0/WebApplication1.sourcelink.json
+/WebApplication1/obj/Debug/net8.0
+/WebApplication1/.vs/WebApplication1
+/WebApplication1/bin/Debug/net8.0
